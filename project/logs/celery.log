@@ -34,3 +34,4 @@
 [2023-11-22 03:01:33,648: INFO/MainProcess] mingle: searching for neighbors
 [2023-11-22 03:01:34,660: INFO/MainProcess] mingle: all alone
 [2023-11-22 03:01:34,672: INFO/MainProcess] celery@145861afaefd ready.
+[2023-11-22 03:01:37,911: INFO/MainProcess] Events of group {task} enabled by remote.
